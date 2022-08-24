@@ -1,0 +1,1 @@
+{"covariates": ["name_length", "tool_type", "weight", "damage", "length", "rarity", "alterations", "town_n_tools", "town_level", "town_name_length", "town_location", "town_population"], "observable": "price"}
